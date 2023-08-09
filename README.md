@@ -1,8 +1,8 @@
 # scikit-learn-open-source-project
 
-In this 7 person team, we worked the machine learning library [scikit-learn](https://scikit-learn.org/stable/).
+[Scikit-learn](https://scikit-learn.org/stable/) is a machine learning library that contain implementations of various machine learning models.
 
-Specifically, we
+As a 7-person team,we
 - Wrote [design documents](architecture/) for the library
 - Created [class diagrams](class-diagrams/) for the library
 - Worked on and fixed [issues](github-issue-summary/)
