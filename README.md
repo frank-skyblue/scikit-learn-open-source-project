@@ -6,3 +6,5 @@ Specifically, we
 - Wrote [design documents](architecture/) for the library
 - Created [class diagrams](class-diagrams/) for the library
 - Worked on and fixed [issues](github-issue-summary/)
+
+To learn more about our team, please click [here](team-info/Introduction.pdf)
